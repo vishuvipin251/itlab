@@ -5,7 +5,7 @@ body{
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
-    background-repeat: no repeat;
+    background-repeat: no-repeat;
 }
 .registerbox{
     width: 420px;
